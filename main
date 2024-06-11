@@ -1,0 +1,5 @@
+<script type="text/javascript">var buttons = document.getElementsByClassName('showanswer');
+for (var i = 0; i < buttons.length; ++i) {
+    buttons[i].click();
+}
+</script>
